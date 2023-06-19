@@ -11,5 +11,8 @@ Information outside the course I use:
 - https://learn.microsoft.com/en-us/dotnet/visual-basic/programming-guide/language-features/operators-and-expressions/comparison-operators
 - https://learn.microsoft.com/en-us/office/vba/api/excel.range.end
 - https://learn.microsoft.com/en-us/office/vba/language/reference/user-interface-help/variant-data-type
+- https://stackoverflow.com/questions/21918166/excel-vba-for-each-worksheet-loop
+- https://www.excel-avanzado.com/39205/diferencia-entre-select-y-activate.html
+- https://stackoverflow.com/questions/26039872/declaring-variable-workbook-worksheet-vba
 
 In the Resources folder, in the Multiple_year_stock_data file you will find the .xlsm, also in the Result folder you will find the screenshots with the results.
